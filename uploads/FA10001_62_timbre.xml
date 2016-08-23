@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="FA" folio="10001" fecha="2015-12-15T14:14:00" formaDePago="Pago en una sola exhibicion" condicionesDePago="Contado" subTotal="250.00000" descuento="0.00000" TipoCambio="1.00000" Moneda="Pesos" total="290.00000" tipoDeComprobante="ingreso" metodoDePago="No Identificado" LugarExpedicion="Guadalajara,Jalisco" NumCtaPago="No Identificado" noCertificado="20001000000100005876" certificado="MIIEdTCCA12gAwIBAgIUMjAwMDEwMDAwMDAxMDAwMDU4NzYwDQYJKoZIhvcNAQEFBQAwggFvMRgwFgYDVQQDDA9BLkMuIGRlIHBydWViYXMxLzAtBgNVBAoMJlNlcnZpY2lvIGRlIEFkbWluaXN0cmFjacOzbiBUcmlidXRhcmlhMTgwNgYDVQQLDC9BZG1pbmlzdHJhY2nDs24gZGUgU2VndXJpZGFkIGRlIGxhIEluZm9ybWFjacOzbjEpMCcGCSqGSIb3DQEJARYaYXNpc25ldEBwcnVlYmFzLnNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxEjAQBgNVBAcMCUNveW9hY8OhbjEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTIwMAYJKoZIhvcNAQkCDCNSZXNwb25zYWJsZTogSMOpY3RvciBPcm5lbGFzIEFyY2lnYTAeFw0xMjA3MjcxNzAyMjZaFw0xNjA3MjcxNzAyMjZaMIHcMSkwJwYDVQQDEyBBQ0NFTSBTRVJWSUNJT1MgRU1QUkVTQVJJQUxFUyBTQzEpMCcGA1UEKRMgQUNDRU0gU0VSVklDSU9TIEVNUFJFU0FSSUFMRVMgU0MxKTAnBgNVBAoTIEFDQ0VNIFNFUlZJQ0lPUyBFTVBSRVNBUklBTEVTIFNDMSUwIwYDVQQtExxBQUEwMTAxMDFBQUEgLyBIRUdUNzYxMDAzNFMyMR4wHAYDVQQFExUgLyBIRUdUNzYxMDAzTURGUk5OMDkxEjAQBgNVBAsTCVVuaWRhZCAxMDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuV/D53jWllewr8uPCOZmPAAU1CZkrQt9Ha+vLIf1n5tMEku8TxjpTmDnpgv5woSEbqHCrMZ8OCZtUixZWQmaViZFwo5aXD0YmBCicE++enBlpqbwMSHN/kvdtiQU6PowF44w+/bIuBf3Z5yMsmTuj39nfuoD04oPnvt+4Ebayv0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHpGBj9KLYe5wNTyvnCKTcTfWUu1R+KwCOkvNi3sAB067Y56PMxBGLaWJyr0Hb/ElRqdhpFeo1yCVa1POBQcKCfOGzQXaR0x/89cUkoruPyrlRO7LOFmCOc/OhwZkSQik96d+2xqM8JUUH6AG8DP3HfdTxR+43JVA1v1QgqSYLhqChj65NEV1vfDNJQesI0qIRcaE9wIcr746zS0pCd+ixWVrhPLWRn3yVV160uXxVlA23QJf5n2i//B7ejjCsa1bh+T2jVYYJtrTdm5bppE2s2AMjDFvWpGzw7YH9GNZ/F5w0v0KZMgnwPB3ABzhcTanAJq1+zQ3vsGMBePc3805JU=" sello="JdoSqzKbm3BZXhgOK9LMMS7EpO/ZXlLuWMPRr+OziJe40PJxGaPbyi/9Eb1T/av1LtwGMdc6lcwlG+DwiMJ9g45BFz1YqzDdz/PXfyxl7wBNHKJuh+5n0l5LndciBMWj5YlnedENOx/qvaGyGep3rZxw4dAeZYqazgy0fPwYMi0=">
+  <cfdi:Emisor nombre="**PILOTO*Distribuidora Sajor S A de C V" rfc="AAA010101AAA">
+    <cfdi:DomicilioFiscal calle="Rio Juárez 1447" codigoPostal="44898" colonia="Col. El Rosario" estado="Jalisco" localidad="Guadalajara" municipio="Guadalajara" pais="Mexico" />
+    <cfdi:ExpedidoEn calle="Rio Juárez" codigoPostal="44898" colonia="El Rosario" estado="Jalisco" localidad="Guadalajara" municipio="Guadalajara" noExterior="1447" pais="Mexico" />
+    <cfdi:RegimenFiscal Regimen="Regimen General de Ley" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="ALADINO DE LOS MOCHIS SA DE CV" rfc="AMO840101G77">
+    <cfdi:Domicilio calle="AVENIDA MIGUEL HIDALGO" codigoPostal="81200" colonia="CENTRO" estado="Sinaloa" municipio="LOS MOCHIS" pais="Mexico" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00000" descripcion="SAIRA FOAMY 45X60 # 33 CAMELLO C/10" importe="250.00000" unidad="No Aplica" valorUnitario="250.00000" noIdentificacion="477333" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="40.00000">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00000" importe="40.00000" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="986C6D81-B5D7-4DB5-8C55-4C9BE836FE75" FechaTimbrado="2015-12-16T10:33:21" selloCFD="JdoSqzKbm3BZXhgOK9LMMS7EpO/ZXlLuWMPRr+OziJe40PJxGaPbyi/9Eb1T/av1LtwGMdc6lcwlG+DwiMJ9g45BFz1YqzDdz/PXfyxl7wBNHKJuh+5n0l5LndciBMWj5YlnedENOx/qvaGyGep3rZxw4dAeZYqazgy0fPwYMi0=" noCertificadoSAT="20001000000100005761" selloSAT="MQnqlBQ/Mh19HG7YLqPN8Ld9PX+j+2SuDbB+1IFVnSFokmD5Ef3Lz8s8it+Mp/YaXO9fDeidFnj8tCS1YVExlxHIuSFWqKtTAhWa8YF2beeH7fpr5nfp4oEneId3dFMzqMC2hG8Ws7cPHPBgnrCrT6uiYzjLv7J0nUXmWCn/FA0=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+
